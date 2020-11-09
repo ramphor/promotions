@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/promotions-system",
+    "description": "Create promotions for products, services",
+    "type": "project",
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
